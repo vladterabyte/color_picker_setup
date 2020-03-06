@@ -1,3 +1,7 @@
+This is a simple example of using React. The target of this tiny project is to show the basic knowledge of mentioned library.
+
+The actual application is setting colors by using bars or by selecting predefined colors set.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
